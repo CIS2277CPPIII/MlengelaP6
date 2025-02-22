@@ -1,0 +1,6 @@
+Number of integer values sorted by each routine: 200000
+Number of string values sorted by each routine: 25000
+Number of Persons sorted by each routine: 10000
+
+Template Sort information for integers
+Name of sort function:     Elapsed time in secs.msec
